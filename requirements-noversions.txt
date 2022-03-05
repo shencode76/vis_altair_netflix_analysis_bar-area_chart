@@ -1,0 +1,6 @@
+altair
+altair-data-server
+jupyterlab
+numpy
+pandas
+scipy
